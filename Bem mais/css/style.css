@@ -1,0 +1,359 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+nav{
+  
+ background-color: white;
+ padding-left: 80px;
+ padding-right: 60px;
+ width: 104%; 
+
+}
+
+
+#logo{
+
+    padding-top: 10px;
+}
+
+#retanguloFone{
+
+    padding-top: 20px;
+}
+
+#legenda{
+    
+    position: absolute;
+    color: black;
+    margin-top: -20px;
+    margin-left: 7px;
+    font-size: 90%;
+}
+
+#nav{
+ color: grey;   
+}
+
+#banner1{
+   position: absolute;
+   width: auto;
+   height: 400px;
+
+}
+
+#legenda1{
+ 
+    position: absolute;
+    color: white;
+    margin-top: 210px;
+    margin-left: 243px;
+    font-size: 80%;
+    font-family: monospace;
+    text-shadow: black 0.1em 0.1em 0.2em;   
+    opacity: 0.7;     
+    
+
+}
+
+#retanguloBanner{
+  
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 243px;
+    width: 170px;
+    height: 30px;
+    
+
+
+}
+
+#legenda2{
+    
+    position: absolute;
+    color: white;
+    margin-top: 255px;
+    margin-left: 265px;
+    font-size: 80%;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    opacity: 0.9;
+    font-family: monospace;
+}
+
+#elipse{
+
+   position: absolute;
+   margin-left: 400PX;
+   margin-top: 60px;
+   width: 110PX;
+   height: 110PX;
+}
+
+#setenta{
+    position: absolute;
+    margin-left: 420PX;
+    margin-top: 80px;
+    width: 70PX;
+    height: 50PX;
+     
+}
+
+#porcento{
+
+    position: absolute;
+    margin-left: 458PX;
+    margin-top: 90px;
+    width: 25PX;
+    
+}
+
+#desconto{
+
+    position: absolute;
+    margin-left: 420PX;
+    margin-top: 140px;
+    width: 70px;
+
+}
+
+#retangulo2{
+
+  position: relative;
+  margin-top: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+
+  
+}
+
+
+
+#tratamentos{
+    
+    position: absolute;
+    margin-top: 50px;
+    width: 600px;
+    display: block;
+    margin-left: 250px;
+     
+
+
+}
+
+#noventa{
+
+    position: absolute;
+    margin-top: 100px;
+    width: 600px;
+    display: block;
+    margin-left: 250px;
+
+
+
+}
+
+#retangulo2a{
+    
+      position: relative;
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+      margin-top: 200px;
+    
+}
+
+#botao{
+   
+    border-style:solid; 
+    border-radius: 20px;  
+    border-color: orange;
+    border-width: 1px;
+    background-color: transparent;
+    color: orange;
+    width: 150px;
+    font-size: 50%;
+    margin: 7px;
+
+}
+
+#remocao{
+    
+    position: absolute;
+    display: block;
+    width: 250px;
+    margin-left: 20PX;
+}
+
+#retanguloRemoçao{
+    position: relative;
+    margin-top: 340px;
+    margin-left: 20PX;
+    opacity: 0.4;
+    width: 250px;
+}
+
+#legenda3{
+
+    position: relative;
+    margin-top: -100px;
+    margin-left: 20px;
+    color: white;
+    font-size: 23px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+    
+}
+
+#legenda4{
+    
+    position: relative;
+    margin-top: 10px;
+    margin-left: 60px;
+    text-decoration: underline;
+    color: white;
+    font-size: 15px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+
+
+}
+
+#skin{
+    position: absolute;
+    margin-top: -407px;
+    margin-left: 280px;
+    width: 250px;
+
+}
+
+#retanguloSkin{
+    position: relative;
+    margin-top: -69px;
+    margin-left: 280px;
+    opacity: 0.4;
+    width: 250px;
+
+}
+
+#legenda5{
+
+    position: relative;
+    margin-top: -90px;
+    margin-left: 320px;
+    color: white;
+    font-size: 23px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+
+}
+
+#legenda6{
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 320px;
+    text-decoration: underline;
+    color: white;
+    font-size: 15px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+
+}
+
+#estrias{
+
+    position: absolute;
+    margin-top: -415px;
+    margin-left: 540px;
+    width: 250px;
+
+}
+
+#retanguloEstrias{
+
+    position: relative;
+    margin-top: -75px;
+    margin-left: 540px;
+    opacity: 0.4;
+    width: 250px;
+
+}
+
+#legenda7{
+
+    position: relative;
+    margin-top: -90px;
+    margin-left: 550px;
+    color: white;
+    font-size: 23px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+}
+
+#legenda8{
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 580px;
+    text-decoration: underline;
+    color: white;
+    font-size: 15px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+
+}
+
+#depilacao{
+    position: absolute;
+    margin-top: -417px;
+    margin-left: 800px;
+    width: 250px;
+}
+
+#retanguloDepolacao{
+
+    position: relative;
+    margin-top: -75px;
+    margin-left: 800px;
+    opacity: 0.4;
+    width: 250px;
+
+}
+
+#legenda9{
+
+    position: relative;
+    margin-top: -90px;
+    margin-left: 860px;
+    color: white;
+    font-size: 23px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+}
+
+#legenda10{
+    
+    position: relative;
+    margin-top: 10px;
+    margin-left: 850px;
+    text-decoration: underline;
+    color: white;
+    font-size: 15px;
+    opacity: 0.7;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: monospace;
+
+}
+
+
